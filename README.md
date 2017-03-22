@@ -90,9 +90,12 @@ Having experts knowing the new technology would be a great advantage.
 
 a. What events should exist? Include meaningful names and a schema of the event.
 UI events (click, drag, resize, ...), server events (new data, error, ...)
+
 b. How should application views be rendered?
 Reacting to events. When the data changes the UI should update automatically.
+
 c. What would the applications state look like and how would state changes be handled?
+
 d. What reactive-friendly patterns might help manage asynchronous logic?
 
 ## Github
